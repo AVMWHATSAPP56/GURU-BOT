@@ -22,7 +22,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['BrunoSobrino']
 
-global.APIs = { // API Prefix
+global.APIs = { // API Prefix .
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
   dzx: 'https://api.dhamzxploit.my.id',
@@ -57,7 +57,7 @@ global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1'
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
-global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
+global.dbase = 'mongodb+srv://avmwhatsapp:<password>@bcoding.zmjbdvn.mongodb.net/' //ADD YOUR MONGODB BY CHANGIMG IT
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
